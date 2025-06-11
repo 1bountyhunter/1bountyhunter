@@ -9,8 +9,9 @@
 🔭 Actively looking for opportunities as a Python developer.<br>
 🌱 I’m currently learning about Django, Flask and Docker.<br>
 ❔ Ask me about Python and data viz tools.<br>
-⚡ Fun fact : I don't like matcha🍵.<br>
-
+⚡ Fun fact : 
+- I don't like matcha🍵.<br>
+- I am a K-drama fan🪭.<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singh-mahak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahak280303@gmail.com) 
