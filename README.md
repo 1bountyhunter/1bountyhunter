@@ -5,7 +5,11 @@
 
 
 # 💫 About Me:
-🌨️ Final year undergraduate student, with keen interest in Data analytics and Machine Learning.<br>🔭 Actively looking for opportunities as a Python developer.<br>🌱 I’m currently learning about Django and Docker.<br>⚡ Fun fact : I don't like matcha🍵.
+🌨️ Final year undergraduate student, with keen interest in Data analytics and Machine Learning.<br>
+🔭 Actively looking for opportunities as a Python developer.<br>
+🌱 I’m currently learning about Django, Flask and Docker.<br>
+❔ Ask me about Python and data viz tools.<br>
+⚡ Fun fact : I don't like matcha🍵.<br>
 
 
 ## 🌐 Socials:
